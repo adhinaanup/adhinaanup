@@ -12,8 +12,13 @@ Hi!<br>I'm Adhina Anup, a third-year Computer Science student <br>at Government 
 ![](https://streak-stats.demolab.com?user=adhinaanup&theme=algolia)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adhinaanup&theme=algolia&hide_border=false&layout=compact&count_private=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adhinaanup&theme=algolia&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,Repositories,Stars,PullRequest,Issues,Experience,Reviews)
+
+
+
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adhinaanup&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=adhinaanup&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adhinaanup&icon=0&color=1)](https://visitcount.itsvg.in)
