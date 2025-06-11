@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!<br>I'm Adhina Anup, a third-year Computer Science student <br>at Government Model Engineering College, Thrikkakara.<br>I’m passionate about exploring various domains of computer science <br>and enjoy deepening my knowledge through hands-on projects and <br>continuous learning.
+Hi!<br>I'm Adhina Anup, a final year Computer Science student <br>at Government Model Engineering College, Thrikkakara.<br>I’m passionate about exploring various domains of computer science <br>and enjoy deepening my knowledge through hands-on projects and <br>continuous learning.
 
 
 ## 🌐 Socials:
